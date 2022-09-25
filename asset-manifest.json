@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/css/main.aff464b0.css",
-    "main.js": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/js/main.4226da9f.js",
-    "static/js/968.4d4272c6.chunk.js": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/js/968.4d4272c6.chunk.js",
-    "static/media/design.svg": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/media/design.f7d7cd5a8ea83a942bfcf7182f68591b.svg",
-    "static/media/dosis-all-400-normal.woff": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/media/dosis-all-400-normal.510297b0c7ded87aa94b.woff",
-    "static/media/dosis-latin-400-normal.woff2": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/media/dosis-latin-400-normal.f667c9778f05c673b610.woff2",
-    "static/media/dosis-latin-ext-400-normal.woff2": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/media/dosis-latin-ext-400-normal.0ace0bc669055d74b167.woff2",
-    "static/media/dosis-vietnamese-400-normal.woff2": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/media/dosis-vietnamese-400-normal.59987a9ad8b0a0977fd2.woff2",
-    "index.html": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/index.html",
-    "main.aff464b0.css.map": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/css/main.aff464b0.css.map",
-    "main.4226da9f.js.map": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/js/main.4226da9f.js.map",
-    "968.4d4272c6.chunk.js.map": "/Jean-Jacques-Augustin/Jean-Jacques-Augustin.github.io/portfolio/static/js/968.4d4272c6.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.7e06479a.css",
+    "main.js": "/portfolio/static/js/main.2ffb0ac3.js",
+    "static/js/968.4d4272c6.chunk.js": "/portfolio/static/js/968.4d4272c6.chunk.js",
+    "static/media/design.svg": "/portfolio/static/media/design.f7d7cd5a8ea83a942bfcf7182f68591b.svg",
+    "static/media/dosis-all-400-normal.woff": "/portfolio/static/media/dosis-all-400-normal.510297b0c7ded87aa94b.woff",
+    "static/media/dosis-latin-400-normal.woff2": "/portfolio/static/media/dosis-latin-400-normal.f667c9778f05c673b610.woff2",
+    "static/media/dosis-latin-ext-400-normal.woff2": "/portfolio/static/media/dosis-latin-ext-400-normal.0ace0bc669055d74b167.woff2",
+    "static/media/dosis-vietnamese-400-normal.woff2": "/portfolio/static/media/dosis-vietnamese-400-normal.59987a9ad8b0a0977fd2.woff2",
+    "index.html": "/portfolio/index.html",
+    "main.7e06479a.css.map": "/portfolio/static/css/main.7e06479a.css.map",
+    "main.2ffb0ac3.js.map": "/portfolio/static/js/main.2ffb0ac3.js.map",
+    "968.4d4272c6.chunk.js.map": "/portfolio/static/js/968.4d4272c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aff464b0.css",
-    "static/js/main.4226da9f.js"
+    "static/css/main.7e06479a.css",
+    "static/js/main.2ffb0ac3.js"
   ]
 }
