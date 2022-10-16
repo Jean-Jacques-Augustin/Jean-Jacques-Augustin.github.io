@@ -1,0 +1,34 @@
+
+.welcome {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	min-height: 93vh;
+}
+
+.image_welcome {
+	width: 50%;
+}
+
+.button_welcome {
+	padding: 10px 20px;
+	background-color: rgb(59, 70, 223);
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	font-size: large;
+	color: white;
+	max-width: 200px;
+	margin: auto;
+	cursor: pointer;
+}
+
+.button_welcome:hover {
+	background-color: rgba(59, 70, 223, 0.54);
+}
+
+.args {
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+}

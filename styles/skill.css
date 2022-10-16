@@ -1,0 +1,36 @@
+
+.skills {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	min-height: 93vh;
+}
+
+.competence {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	border: 2px solid red;
+}
+
+.frontend {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	width: 45%;
+}
+
+.backend {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 45%;
+}
+
+.competence_box {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}

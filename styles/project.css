@@ -1,0 +1,6 @@
+.project {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    min-height: 93vh;
+}
